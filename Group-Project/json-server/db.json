@@ -1,0 +1,99 @@
+{
+  "events": [
+    {
+      "id": "evt-101",
+      "title": "Design Thinking Bootcamp",
+      "category": "Workshop",
+      "date": "2026-10-24",
+      "time": "10:00 AM",
+      "venue": "Innovation Lab, Block A",
+      "description": "Learn practical design thinking methods and turn your ideas into user-focused solutions.",
+      "capacity": 80,
+      "organizer": "Innovation Club"
+    },
+    {
+      "id": "evt-102",
+      "title": "CodeSprint 2026",
+      "category": "Competition",
+      "date": "2026-10-28",
+      "time": "09:30 AM",
+      "venue": "Computer Science Lab",
+      "description": "A friendly coding challenge for students who love solving problems and building things.",
+      "capacity": 120,
+      "organizer": "Coding Club"
+    },
+    {
+      "id": "evt-103",
+      "title": "Rhythm & Roots Cultural Night",
+      "category": "Cultural",
+      "date": "2026-11-02",
+      "time": "05:00 PM",
+      "venue": "Main Auditorium",
+      "description": "An evening of music, dance, performances, and campus creativity.",
+      "capacity": 250,
+      "organizer": "Cultural Committee"
+    },
+    {
+      "id": "evt-104",
+      "title": "AI: From Ideas to Impact",
+      "category": "Tech Talk",
+      "date": "2026-11-06",
+      "time": "11:00 AM",
+      "venue": "Seminar Hall 2",
+      "description": "Explore practical applications of artificial intelligence with an interactive student Q&A.",
+      "capacity": 100,
+      "organizer": "AI/ML Association"
+    },
+    {
+      "id": "evt-105",
+      "title": "Campus Badminton Open",
+      "category": "Sports",
+      "date": "2026-11-12",
+      "time": "08:00 AM",
+      "venue": "Indoor Sports Complex",
+      "description": "Bring your energy to a friendly badminton tournament for all skill levels.",
+      "capacity": 64,
+      "organizer": "Sports Council"
+    },
+    {
+      "id": "evt-106",
+      "title": "Build for Good Hack Day",
+      "category": "Competition",
+      "date": "2026-11-18",
+      "time": "09:00 AM",
+      "venue": "Project Hub, Block C",
+      "description": "Team up to prototype creative solutions to real campus and community challenges.",
+      "capacity": 90,
+      "organizer": "Developer Student Club"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "reg-201",
+      "eventId": "evt-101",
+      "eventTitle": "Design Thinking Bootcamp",
+      "name": "Aarav Kumar",
+      "email": "aarav.demo@example.com",
+      "department": "CSE, 3rd year",
+      "registeredAt": "2026-10-12T09:30:00.000Z"
+    },
+    {
+      "id": "reg-202",
+      "eventId": "evt-102",
+      "eventTitle": "CodeSprint 2026",
+      "name": "Maya Reddy",
+      "email": "maya.demo@example.com",
+      "department": "IT, 2nd year",
+      "registeredAt": "2026-10-12T10:10:00.000Z"
+    },
+    {
+      "id": "reg-203",
+      "eventId": "evt-104",
+      "eventTitle": "AI: From Ideas to Impact",
+      "name": "Kiran Rao",
+      "email": "kiran.demo@example.com",
+      "department": "CSE-AI/ML, 3rd year",
+      "registeredAt": "2026-10-13T07:20:00.000Z"
+    }
+  ]
+}
