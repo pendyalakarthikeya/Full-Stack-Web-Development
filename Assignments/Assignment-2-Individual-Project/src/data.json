@@ -1,0 +1,37 @@
+[
+  {
+    "id": "STU1001",
+    "name": "Ananya Sharma",
+    "email": "ananya@example.com",
+    "course": "Computer Science",
+    "year": "2nd Year"
+  },
+  {
+    "id": "STU1002",
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "course": "Artificial Intelligence",
+    "year": "3rd Year"
+  },
+  {
+    "id": "STU1003",
+    "name": "Priya Reddy",
+    "email": "priya@example.com",
+    "course": "Information Technology",
+    "year": "1st Year"
+  },
+  {
+    "id": "STU1004",
+    "name": "Arjun Kumar",
+    "email": "arjun@example.com",
+    "course": "Computer Science",
+    "year": "4th Year"
+  },
+  {
+    "id": "STU1005",
+    "name": "Meera Nair",
+    "email": "meera@example.com",
+    "course": "Electronics",
+    "year": "2nd Year"
+  }
+]
